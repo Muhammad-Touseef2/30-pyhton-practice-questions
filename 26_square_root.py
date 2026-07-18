@@ -1,4 +1,5 @@
-# Question: Write a Python program to find the square root of a perfect square number using a while loop (without using the math module).
+# Question: Write a Python program to find the square root of a perfect square 
+# number using a while loop (without using the math module).
 
 number = int(input("Enter a number: "))
 
